@@ -8,10 +8,10 @@ profile:
   align: right
   image: Nick_Chimitt.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at Purdue University under Professor [Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html). There, I work on optical forward modeling for inverse problems involving atmospheric turbulence and meta-surface imaging systems (soon).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have been fortunate enough to have given two tutorials for imaging through turbulence, one of which was at the 2022 IEEE/CVF Conference on Computer Vision and Pattern (CVPR) which may be seen on [Youtube](https://www.youtube.com/watch?v=g_VY0KToV_s). Prof. Chan and I were also invited to write a tutorial on the content of our CVPR tutorial which will be published with Now Publisher's [Foundations and Trends in Computer Vision](https://www.nowpublishers.com/CGV). If you're interested, feel free to check out their website or [go here] to access the tutorial (not yet posted).
