@@ -28,7 +28,7 @@ The first chapter discusses basic principles of the book: what is turbulence, ho
 ---
 Chapter 2
 
-The basics of Fourier optics are presented in this chapter. Here, we're aimed at getting the main results of Fourier optics conveyed in a (relatively) short amount of space. First, light is justified as a wave. This is critical for understanding how light is degraded by the turbulent atmosphere and how it affects an image. Furthermore, how does light move from one place to another if it is indeed a wave; are there any approximations we can make? This leads us to introduce Fresnel and Fraunhofer diffraction. Finally, we discuss point spread functions (PSFs) and related topics along with spatially varying linear systems.
+The basics of Fourier optics are presented in this chapter. Here, we're aimed at getting the main results of Fourier optics conveyed in a (relatively) short amount of space. First, light should be modeled as a wave. This is critical for understanding how light is degraded by the turbulent atmosphere and how it affects an image. Furthermore, how does light move from one place to another if it is indeed a wave; are there any approximations we can make? This leads us to introduce Fresnel and Fraunhofer diffraction. Finally, we discuss point spread functions (PSFs) and related topics along with spatially varying linear systems.
 
 ---
 Chapter 3
@@ -38,7 +38,7 @@ This chapter contains the classical description and models for atmospheric turbu
 ---
 Chapter 4
 
-The last chapter covered the more classical description of turbulence, while this chapter discusses a perspective that we take in thinking about turbulence. The foundations of these ideas date back to the 1970's when David Fried and Robert Noll considered a basis representation to describe the effects that a wave experiences by turbulence. Our model we discuss here takes this and applies modern considerations to it. We use some learning-based tricks, properties of random number generation, and a few additional considerations to develop a simulator which is 1000 times faster than split-step propagation (although this number varies, it is a reasonable estimation). At the core of this is representing a spatially varying impulse response as a sum of invariant responses and a learning-based trick known as the phase-to-space (P2S) transform. The P2S transform gives us a lot of useful properties for inverse problems: it's a neural network!
+The last chapter covered the more classical description of turbulence, while this chapter discusses a perspective that we take in thinking about turbulence. The foundations of these ideas date back to the 1970's when David Fried and Robert Noll considered a basis representation to describe the effects that a wave experiences by turbulence. The model we discuss here takes this and applies more modern considerations to it. We use some learning-based tricks, properties of random number generation, and a few additional considerations to develop a simulator which is 1000 times faster than split-step propagation (although this number varies, it is a reasonable estimation). At the core of this is representing a spatially varying impulse response as a sum of invariant responses and a learning-based trick known as the phase-to-space (P2S) transform. The P2S transform gives us a lot of useful properties for inverse problems: it's a neural network!
 
 
 ---
