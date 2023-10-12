@@ -30,5 +30,3 @@ I've also given two tutorials for imaging through turbulence, one of which was a
 
 My main interests are computational imaging and image processing with specific emphasis on forward modeling. The concept of [computational image formation](https://arxiv.org/abs/2307.11635) in particular is a major theme in my interests and direction.
 
-
-
