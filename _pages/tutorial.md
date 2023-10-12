@@ -8,10 +8,8 @@ cv_pdf: example_pdf.pdf
 ---
 Computational Imaging through Atmospheric Turbulence: available [online](https://www.barnesandnoble.com/w/computational-imaging-through-atmospheric-turbulence-stanley-h-chan/1143986968).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="float-right">
+    {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     Caption
