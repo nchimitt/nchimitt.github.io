@@ -11,9 +11,6 @@ Computational Imaging through Atmospheric Turbulence: available [online](https:/
 <div class="float-right">
     {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
 </div>
-<div class="caption">
-    Caption
-</div>
 
 Since the seminal work of Andrey Kolmogorov in the early 1940’s, imaging through atmospheric turbulence has grown from a pure scientific pursuit to an important subject across a multitude of civilian, space-mission, and national security applications. Fueled by the recent advancement of deep learning, the field is further experiencing a new wave of momentum. However, for these deep learning methods to perform well, new efforts are needed to build faster and more accurate computational models while at the same time maximizing the performance of image reconstruction.
 
@@ -26,7 +23,9 @@ The book is written primarily for image processing engineers, computer vision sc
 ---
 Chapter 1
 
-Text
+<div class="float-right">
+    {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
+</div>
 
 ---
 Chapter 2
