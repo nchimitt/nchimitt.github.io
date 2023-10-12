@@ -23,9 +23,8 @@ The book is written primarily for image processing engineers, computer vision sc
 ---
 Chapter 1
 
-<div class="float-right">
-    {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
-</div>
+This is a **Markdown** Paragraph.
+
 
 ---
 Chapter 2
