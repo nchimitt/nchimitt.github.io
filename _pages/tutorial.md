@@ -17,13 +17,8 @@ The goal of this book is to present the basic concepts of turbulence physics whi
 
 The book is written primarily for image processing engineers, computer vision scientists, and engineering students who are interested in the field of atmospheric turbulence, statistical optics, and image processing. The book can be used as a graduate text, or advanced topic classes for undergraduates.
 
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/book.webp" title="Images seen through atmospheric turbulence" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption
-</div>
+---
+Chapter 1
+---
+test
+---
