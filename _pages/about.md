@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate
-
-<a href='https://engineering.purdue.edu/ECE'>Purdue University</a>. <a href='https://engineering.purdue.edu/ChanGroup/stanleychan.html'>Intelligent Imaging Lab</a>.
+subtitle: <a href='https://engineering.purdue.edu/ECE'>Purdue University</a>. <a href='https://engineering.purdue.edu/ChanGroup/stanleychan.html'>Intelligent Imaging Lab</a>.
 
 profile:
   align: right
