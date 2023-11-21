@@ -6,9 +6,7 @@ nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
 ---
-Computational Imaging through Atmospheric Turbulence: available as [physical copy](https://www.barnesandnoble.com/w/computational-imaging-through-atmospheric-turbulence-stanley-h-chan/1143986968).
-
-Now publishers also allows us to upload a draft version of the book, therefore, you can download the PDF version [here](https://nchimitt.github.io/assets/pdf/CI_atm_turb_book.pdf).
+Computational Imaging through Atmospheric Turbulence: get a [physical copy](https://www.barnesandnoble.com/w/computational-imaging-through-atmospheric-turbulence-stanley-h-chan/1143986968) or a draft PDF [here](https://nchimitt.github.io/assets/pdf/CI_atm_turb_book.pdf) for free!
 
 
 <img src="/assets/img/book.webp" width="25%" height="25%" class="float-right" />
