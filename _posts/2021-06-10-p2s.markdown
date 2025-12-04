@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2107.11627">Accelerating atmospheric turbulence simulation via learned phase-to-space transform</a>
+date:   2021-06-10 22:21:59 +00:00
+image: /images/main_p2s.png
+categories: research
+author: "Nick Chimitt"
+authors: "Zhiyuan Mao, <strong>Nicholas Chimitt</strong>, Stanley H. Chan"
+arxiv: https://arxiv.org/abs/2107.11627
+venue: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+code: https://github.itap.purdue.edu/StanleyChanGroup/TurbulenceSim_P2S
+website: 
+---
+This paper introduces neural mappings to bridge gaps in simulation for atmospheric turbulence. We build a neural mapping to map from the phase representation (the phase domain) to the point spread function representation (the space domain) that we refer to as the Phase-to-Space (P2S) transform.

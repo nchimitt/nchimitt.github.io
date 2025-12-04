@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2305.09036">Anisoplanatic optical turbulence simulation for near-continuous Cn2 profiles without wave propagation</a>
+date:   2023-07-01 22:21:59 +00:00
+image: /images/var_cn2.pdf
+categories: research
+author: "Nick Chimitt"
+authors: "<strong>Nicholas Chimitt</strong>, Stanley H. Chan"
+arxiv: https://arxiv.org/abs/2107.11627
+venue: "IEEE Transactions on Computational Imaging"
+code: 
+website: 
+---
+The original SPIE paper is revisited and an exact formula is derived, removing previous restrictions on the type of turbulence path distortions it can model.

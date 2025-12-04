@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2505.04616">Person Recognition at Altitude and Range Fusion of Face, Body Shape and Gait</a>
+date:   2025-04-13 22:21:59 +00:00
+image: /images/msu2.png
+categories: research
+author: "Nick Chimitt"
+authors: "Feng Liu, <strong>Nicholas Chimitt</strong>, Lanqing Guo, Jitesh Jain, Aditya Kane, Minchul Kim, Wes Robbins, Yiyang Su, Dingqiang Ye, Xingguang Zhang, Jie Zhu, Siddharth Satyakam, Christopher Perry, Stanley H Chan, Arun Ross, Humphrey Shi, Zhangyang Wang, Anil Jain, Xiaoming Liu"
+venue: "Under Review"
+arxiv: https://arxiv.org/abs/2505.04616
+code: 
+website: 
+---
+The final computer vision recognition system resulting from a multi-university collaboration between Michigan State University, Georgia Tech, UT Austin, and Purdue for long range turbulence distorted face and body recognition.

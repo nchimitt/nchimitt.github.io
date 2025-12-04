@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2411.00338">Computational imaging through atmospheric turbulence</a>
+date:   2023-10-01 22:21:59 +00:00
+image: /images/ebook_cover2.jpg
+categories: book
+author: "Nick Chimitt"
+authors: "<strong>Nicholas Chimitt</strong>, Stanley H. Chan"
+arxiv: https://arxiv.org/abs/2411.00338
+venue: "NOW Foundations and Trends in Computer Graphics and Vision"
+code: 
+website: 
+---
+If you are a computer vision/computational imaging person interested in learning atmospheric turbulence modeling and restoration, this book is made for you.

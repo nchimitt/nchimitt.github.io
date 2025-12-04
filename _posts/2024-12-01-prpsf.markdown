@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2303.05687">Phase retrieval of a point spread function</a>
+date:   2024-12-01 22:21:59 +00:00
+image: /images/s2p_overview.png
+categories: research
+author: "Nick Chimitt"
+authors: "<strong>Nicholas Chimitt</strong>, Ali Almuallem, Stanley H. Chan"
+pdf: https://almuallem.github.io/data/131491H.pdf
+venue: "Unconventional Imaging, Sensing, and Adaptive Optics"
+code: 
+website: 
+---
+We use the Phase-to-Space transform as a component of solving a phase retrieval problem.

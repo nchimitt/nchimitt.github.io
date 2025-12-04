@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <a href="https://arxiv.org/abs/2207.06465">Imaging through the atmosphere using turbulence mitigation transformer</a>
+date:   2024-10-01 22:21:59 +00:00
+image: /images/pg96.gif
+categories: research
+author: "Nick Chimitt"
+authors: "Xingguang Zhang, <strong>Nicholas Chimitt</strong>, Yiheng Chi, Zhiyuan Mao, Stanley H. Chan"
+arxiv: https://arxiv.org/abs/2207.06465
+venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+code: 
+website: 
+---
+A transformer-based image restoration method that emphasizes a decomposition of the forward model to be reflected in the inverse process, first removing the tilt then removing the blur, consistent with the approximate atmospheric turbulence forward model.

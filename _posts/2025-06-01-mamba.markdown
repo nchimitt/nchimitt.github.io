@@ -1,0 +1,14 @@
+---
+layout: post
+title:  <strong>(CVPR Highlight) </strong><a href="https://arxiv.org/abs/2504.02697">Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation</a>
+date:   2025-06-01 22:21:59 +00:00
+image: /images/main_p2s.png
+categories: research
+author: "Nick Chimitt"
+authors: "Xingguang Zhang, <strong>Nicholas Chimitt</strong>, Xijun Wang, Yu Yuan, Stanley H. Chan"
+arxiv: https://arxiv.org/abs/2504.02697
+venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+code: 
+website: https://xg416.github.io/MambaTM/
+---
+A MAMBA-based restoration network that uses a latent phase distortion to model the turbulence distortion in a physically-motivated latent space. This combines the best of our two previous learning-based restoration algorithms.
