@@ -10,4 +10,4 @@ venue: "Under Review"
 code: 
 website: 
 ---
-When solving a recognition problem, when should we restore? This paper seeks to answer this question with lessons learned from a multi-year IARPA project (BRIAR).
+When solving a recognition problem, should we always restore the image before recognition? We find the answer is not so obvious. This paper seeks to answer this question with lessons learned from a multi-year IARPA project (BRIAR).
