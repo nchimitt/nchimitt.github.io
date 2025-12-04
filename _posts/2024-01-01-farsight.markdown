@@ -7,7 +7,7 @@ categories: research
 author: "Nick Chimitt"
 authors: "Feng Liu, Ryan Ashbaugh, <strong>Nicholas Chimitt</strong>, Najmul Hassan, Ali Hassani, Ajay Jaiswal, Minchul Kim, Zhiyuan Mao, Christopher Perry, Zhiyuan Ren, Yiyang Su, Pegah Varghaei, Kai Wang, Xingguang Zhang, Stanley H. Chan, Arun Ross, Humphrey Shi, Zhangyang Wang, Anil Jain, Xiaoming Liu"
 arxiv: https://arxiv.org/abs/2107.11627
-venue: "NOW Foundations and Trends in Computer Graphics and Vision"
+venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
 code: 
 website: 
 ---
