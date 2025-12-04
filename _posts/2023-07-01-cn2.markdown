@@ -7,7 +7,7 @@ categories: research
 author: "Nick Chimitt"
 authors: "<strong>Nicholas Chimitt</strong>, Stanley H. Chan"
 arxiv: https://arxiv.org/abs/2107.11627
-venue: "IEEE Transactions on Computational Imaging"
+venue: "SPIE Optical Engineering"
 code: 
 website: 
 ---
