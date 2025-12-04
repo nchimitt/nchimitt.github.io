@@ -9,7 +9,7 @@ authors: "<strong>Nicholas Chimitt</strong>, Stanley H. Chan"
 arxiv: https://arxiv.org/abs/2004.11210
 # pdf: https://par.nsf.gov/servlets/purl/10226150
 venue: "SPIE Optical Engineering"
-code: 
+code: https://www.mathworks.com/matlabcentral/fileexchange/78742-atmospheric-turbulence-simulator-for-image-reconstruction
 website: 
 ---
-We theoretical show that pupil asymmetry can break ambiguities in the wavefront estimation/phase retrieval problem. We validate our theory using empirical and real optical bench data.
+The beginning of a series of papers on simulating imaging through atmospheric turbulence. We derive under an approximation the effect of turbulence on an image that is consistent with wave propagation models.

@@ -8,7 +8,7 @@ author: "Nick Chimitt"
 authors: "Zhiyuan Mao, <strong>Nicholas Chimitt</strong>, Stanley H. Chan"
 arxiv: https://arxiv.org/abs/2009.00071
 venue: "IEEE Transactions on Computational Imaging"
-code: 
+code: https://github.itap.purdue.edu/StanleyChanGroup/TurbRecon_TCI
 website: 
 ---
 A non-learning method for restoring images distorted by turbulence. While most methods focused on static scenes, our emphasize here was on dynamic scenes with moving images.
